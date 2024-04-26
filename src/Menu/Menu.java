@@ -45,7 +45,7 @@ public class Menu extends Conversor {
                     op = 0;
                     break;
                 case 2:
-                    System.out.println("Digite a quantidade de dolares a converter: ");
+                    System.out.println("Digite a quantidade de Reais a converter: ");
                     moeda1 = "BRL";
                     moeda2 = "USD";
                     setMoeda1(moeda1);
@@ -58,7 +58,7 @@ public class Menu extends Conversor {
                     break;
 
                 case 3:
-                    System.out.println("Digite a quantidade de dolares a converter: ");
+                    System.out.println("Digite a quantidade de Yens a converter: ");
                     moeda1 = "JPY";
                     moeda2 = "BRL";
                     setMoeda1(moeda1);
@@ -71,7 +71,7 @@ public class Menu extends Conversor {
                     break;
 
                 case 4:
-                    System.out.println("Digite a quantidade de dolares a converter: ");
+                    System.out.println("Digite a quantidade de Reais Brasileiros a converter: ");
                     moeda1 = "BRL";
                     moeda2 = "JPY";
                     setMoeda1(moeda1);
@@ -84,7 +84,7 @@ public class Menu extends Conversor {
                     break;
 
                 case 5:
-                    System.out.println("Digite a quantidade de dolares a converter: ");
+                    System.out.println("Digite a quantidade de Pesos Argentinos a converter: ");
                     moeda1 = "ARS";
                     moeda2 = "USD";
                     setMoeda1(moeda1);
@@ -96,7 +96,7 @@ public class Menu extends Conversor {
                     op = 0;
                     break;
                 case 6:
-                    System.out.println("Digite a quantidade de dolares a converter: ");
+                    System.out.println("Digite a quantidade de Pesos Argentinos a converter: ");
                     moeda1 = "ARS";
                     moeda2 = "BRL";
                     setMoeda1(moeda1);
