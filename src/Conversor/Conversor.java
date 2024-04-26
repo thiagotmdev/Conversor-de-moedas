@@ -13,7 +13,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class Conversor {
-   private String chave = "b6128602b6698f6c1b1a4aa6";
+   private String chave = "Sua Chave aqui";
 
    private String moeda1;
    private String moeda2;
